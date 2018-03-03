@@ -1,2 +1,3 @@
 this is a test
-branch TEST IS USEFUL.
+<<<<<<< HEAD
+branch TEST is USEFUL.
