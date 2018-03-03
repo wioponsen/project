@@ -1,2 +1,2 @@
 this is a test
-branch TEST
+branch TEST is useful.
